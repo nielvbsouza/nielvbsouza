@@ -5,7 +5,7 @@
 Olá, Bem Vindo
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=DANIEl&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-<p>Sou Ceo da techera<br/> 
+<p>Sou Ceo da TechEra<br/> 
   
   sou desenvolvedor Web</p>
 
